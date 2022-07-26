@@ -490,6 +490,7 @@ const Home = (props: HomeProps) => {
 
   return (
     <Container style={{ marginTop: 100 }}>
+      <img src="https://uploads-ssl.webflow.com/627b7c6afa5471026e3948bd/629e29ba419dca62145f8e15_ABCH%20Summer%20School%20of%20Solana%20Open%20Graph%20Image.png"></img>
       <Container maxWidth="xs" style={{ position: "relative" }}>
         <Paper
           style={{

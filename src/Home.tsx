@@ -459,7 +459,8 @@ const Home = (props: HomeProps) => {
                 <MintContainer>
                     <DesContainer>
                         <NFT elevation={3}>
-                            <h2>Summer School Of Solana NFT Lecture</h2>
+                            <h2>Summer School Of Solana Boys</h2>
+                            <h3>A legendary (and ugly) NFTs for those who watched the NFT lecture !</h3>
                             <br/>
                             <div><Price label={isActive && whitelistEnabled && (whitelistTokenBalance > 0) ? (whitelistPrice + " SOL") : (price + " SOL")}/><Image
                                 src="home.gif"
